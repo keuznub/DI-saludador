@@ -1,0 +1,31 @@
+header, section{
+    
+
+    button{
+        background-color: blue;
+        color: white;
+        border: none;
+        border-radius: 1em;
+        padding: 0.5em;
+        cursor: pointer;
+    }
+    button:hover{
+        padding: 0.8em;
+        border-radius: 1.5em;
+        transition: 300ms ease-in-out;
+    }
+}
+
+footer{
+    
+    margin-right: 1em;
+}
+
+body{
+    border: 1px solid black;
+    border-radius: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
