@@ -5,7 +5,8 @@ function saludar(){
     if(document.getElementById('hola').textContent.includes('hola')){
         document.getElementById('hola').textContent = "..."    
     }else{
-        document.getElementById('hola').textContent = "hola"    
+        document.getElementById('hola').textContent = "hola"   
+        confetti(); 
     }
                 
 }

@@ -13,4 +13,4 @@ Aplicacion web que te saluda por pantalla
 
 ### Sprint 2
 - [ ] mejorar el rendimiento
-- [ ] colocar conffeti
+- [x] colocar conffeti
